@@ -1,0 +1,1 @@
+{"flood_version":"0.3.0","type":"single_test","name":"eth_call","test_parameters":{"flood_version":"0.3.0","test_name":"eth_call","rates":[1024,2048,4096,8192,16384],"durations":[30,30,30,30,30],"vegeta_args":null,"network":"ethereum","random_seed":null}}
