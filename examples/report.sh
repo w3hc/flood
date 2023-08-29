@@ -1,8 +1,8 @@
 #!/bin/bash
 
-export TEST_DATA_DIR=/path/to/some/output/dir
-export NODE1=username@ip.address.1:localhost:8545
-export NODE2=username@ip.address.2:localhost:8545
+export TEST_DATA_DIR=/Users/ju/flood/output
+export NODE1=https://arthera-devnet-rpc.bwarelabs.com
+export NODE2=https://explorer-dev.arthera.net
 
 #
 # # run tests
